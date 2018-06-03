@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 my_float = 98.1914129281
-print("{:05.2f}{}".format(my_float,"% completion\n"))
+print("{:05.2f}{}".format(my_float,"% of completion\n"))
